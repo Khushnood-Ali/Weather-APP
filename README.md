@@ -38,6 +38,6 @@ Current Weather
 
 Geocoding
 
-
-
 Air Pollution (AQI)
+
+NOTE: This app requires an API key from <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap</a>. Replace 'YOUR_API_KEY' in the JavaScript code with your own API key.
