@@ -41,3 +41,5 @@ Geocoding
 Air Pollution (AQI)
 
 NOTE: This app requires an API key from <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap</a>. Replace 'YOUR_API_KEY' in the JavaScript code with your own API key.
+<img width="1871" height="920" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/fe2b310c-50a8-458a-ad8b-e92509fd8585" />
+<img width="1818" height="914" alt="image" src="https://github.com/user-attachments/assets/1349aba1-0ac1-420c-a0e6-9410cd6f3f1c" />
