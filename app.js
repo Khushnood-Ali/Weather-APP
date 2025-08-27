@@ -1,10 +1,7 @@
-// Enhanced Weather App JavaScript with OpenWeatherMap API Integration
-// Version 2.0 - Ready to use with your API key
-
 class EnhancedWeatherApp {
     constructor() {
-        // API Configuration - Your API key is now configured!
-        this.API_KEY = 'Your_API_Key';
+        // API Configuration
+        this.API_KEY = '087a597dbc53c15de50c6a2a7806a1f6';
         this.BASE_URL = 'https://api.openweathermap.org/data/2.5';
         this.GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 
